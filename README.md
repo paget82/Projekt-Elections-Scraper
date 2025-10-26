@@ -1,5 +1,5 @@
 # Projekt: Elections Scraper
-Tento projekt slouží k extrahování výsledků z parlamentních voleb v roce 2017. Odkaz k prohlédnutí najdete zde.
+Tento projekt slouží k extrahování výsledků z parlamentních voleb v roce 2017. Odkaz k prohlédnutí najdete [zde]([https://pages.github.com/](https://github.com/paget82/Projekt-Elections-Scraper/blob/main/vysledky_prostejov.csv)).
 
 ## Instalace knihoven
 Knihovny, které jsou použity v kódu jsou uložene v souboru `requirements.txt`. Pro instalaci doporučuji použít nové virtuální prostředí a s nainstalovaným manažerem spustit následovně:
