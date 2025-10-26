@@ -15,15 +15,15 @@ Následně se vám stáhnou výsledky jako soubor s příponou .csv.
 
 ## Ukázka projektu
 Výsledky hlasování pro okres Prostějov:
-1.argument: https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
-2.argument: vysledky_prostejov.csv
+1.argument: ` https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103 `
+2.argument:  `vysledky_prostejov.csv `
 
 Spuštění programu:
-python election-scraper.py 'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103'
+python election-scraper.py  `'https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103' `
 
 Průbeh stahování:
-STAHUJI DATA Z VYBRANÉHO URL: "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103"
-UKLADAM DO SOUBORU: vysledky_prostejov.csv
+STAHUJI DATA Z VYBRANÉHO URL:  `"https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" `
+UKLADAM DO SOUBORU:  `vysledky_prostejov.csv `
 UKONCUJI election-scraper
 
 Částečný výstup:
