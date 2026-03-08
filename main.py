@@ -1,8 +1,9 @@
-from requests import get
-from bs4 import BeautifulSoup
 import csv
 import sys
 from typing import List, Tuple
+
+from bs4 import BeautifulSoup
+from requests import get
 
 
 def check_arguments() -> Tuple[str, str]:
@@ -147,3 +148,4 @@ if __name__ == "__main__":
 
     print("SAVING TO FILE:", output_file)
     print("FINISHED")
+
